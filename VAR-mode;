@@ -1,0 +1,2 @@
+Developed a Vector Auto-Regressive (VAR) model to analyze the impact of lagged variables on current variablesusing a time series dataset of ice cream and heater sales. Performed data cleaning, including seasonality and trend   
+removal, as well as data normalization.
